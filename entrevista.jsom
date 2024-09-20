@@ -1,0 +1,49 @@
+{
+  "entrevista": {
+    "objetivo": "Entender as preferências de celulares entre 10.000 brasileiros",
+    "metodo": "Questionário aplicado em diferentes regiões",
+    "resultados": [
+      {
+        "modelo": "Samsung Galaxy A12",
+        "percentual": 20
+      },
+      {
+        "modelo": "Samsung Galaxy A32",
+        "percentual": 15
+      },
+      {
+        "modelo": "Xiaomi Redmi Note 10",
+        "percentual": 12
+      },
+      {
+        "modelo": "Motorola Moto G30",
+        "percentual": 10
+      },
+      {
+        "modelo": "Apple iPhone 13",
+        "percentual": 10
+      },
+      {
+        "modelo": "Samsung Galaxy S21",
+        "percentual": 9
+      },
+      {
+        "modelo": "Xiaomi Poco X3",
+        "percentual": 8
+      },
+      {
+        "modelo": "Samsung Galaxy A52",
+        "percentual": 8
+      },
+      {
+        "modelo": "Motorola Moto G60",
+        "percentual": 4
+      },
+      {
+        "modelo": "Apple iPhone 12",
+        "percentual": 4
+      }
+    ],
+    "conclusao": "As preferências refletem uma combinação de custo, desempenho e funcionalidades, variando levemente por região."
+  }
+}
