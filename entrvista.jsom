@@ -1,0 +1,52 @@
+[
+    {
+      "modelo": "Apple iPhone 14",
+      "votos": 2500,
+      "percentual": 25
+    },
+    {
+      "modelo": "Samsung Galaxy S23",
+      "votos": 1800,
+      "percentual": 18
+    },
+    {
+      "modelo": "Xiaomi Redmi Note 12",
+      "votos": 1500,
+      "percentual": 15
+    },
+    {
+      "modelo": "Apple iPhone 13",
+      "votos": 1200,
+      "percentual": 12
+    },
+    {
+      "modelo": "Samsung Galaxy A54",
+      "votos": 1000,
+      "percentual": 10
+    },
+    {
+      "modelo": "OnePlus Nord 3",
+      "votos": 800,
+      "percentual": 8
+    },
+    {
+      "modelo": "Google Pixel 7",
+      "votos": 600,
+      "percentual": 6
+    },
+    {
+      "modelo": "Motorola Moto G Power (2023)",
+      "votos": 400,
+      "percentual": 4
+    },
+    {
+      "modelo": "Vivo Y22s",
+      "votos": 200,
+      "percentual": 2
+    },
+    {
+      "modelo": "Oppo Find X5",
+      "votos": 100,
+      "percentual": 1
+    }
+  ]
