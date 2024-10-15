@@ -1,7 +1,7 @@
 import{ pegarCSS } from "./comum.js"
 
 async function criarGraficoPizza(){
-    const url = 'https://raw.githubusercontent.com/vini-destruidor19/API-ex-vini/refs/heads/main/Barra.json
+    const url = 'https://raw.githubusercontent.com/vini-destruidor19/API-ex-vini/refs/heads/main/Barra.json'
     const res = await fetch(url)
     const dados = await res.json()
     const celulares = Object.keys(dados)
